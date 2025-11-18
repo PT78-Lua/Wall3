@@ -1,4 +1,4 @@
 api:notify("CheckPoint3")
 api:notify("DO NOT UNLOAD AND LOAD YOU WILL CRASH", 15)
-task.wait(2)
+task.wait(3)
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/65d98d4acd7eeb7665f39d078b04b971f1568f9cb88a8acc06b2d42ccf1c22b9/download"))()
